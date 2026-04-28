@@ -1,6 +1,6 @@
 # Hi, I'm Payal 👋
 
-MERN Stack Developer
+💻MERN Stack Developer
 
 ## Projects
 - User Authentication System
@@ -11,4 +11,4 @@ MERN Stack Developer
 Node.js | Express.js | MongoDB | React 
 
 ## About Me
-I’m a fresher and a quick learner, seeking an opportunity to begin my career as a developer and build my skills over the long term.
+I’m a fresher and a quick learner with a strong interest in backend development. I’m seeking an opportunity to begin my career as a developer, where I can apply my knowledge, gain hands-on experience, and continuously build my skills over the long term.
