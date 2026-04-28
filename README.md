@@ -1,6 +1,6 @@
-# Hi, I'm Payal 👋
+# Hi, I'm Payal Gatkal
 
-💻MERN Stack Developer
+💻 MERN Stack Developer
 
 ## Projects
 - User Authentication System
