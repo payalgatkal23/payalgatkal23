@@ -4,7 +4,7 @@
 
 ## Projects
 - User Authentication System
-- Student Management System
+- Student Management API
 - Task Management System
 
 ## Skills
